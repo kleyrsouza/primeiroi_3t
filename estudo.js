@@ -45,6 +45,6 @@ function total(){
         val = resultado;
         document.write("Mês " + m + " valor de " + val + "<br>");
     }
-    document.write("O total é de: " + resultado);
+    document.write("Mês " + m + "valor de " + moeda(val) + "<br>");
 }
-
+document.write("0 total é de: " + moeda(resultado) )

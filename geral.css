@@ -12,5 +12,12 @@
 #btnCalc {
     background-color: rgb(115, 249, 253);
     color: black;
-    cursor: help;
+    cursor: pointer;
 }
+spResultado{
+    background-color: black;
+    color: rgb(255, 22, 138);
+    padding: 4px;
+    margin: 2px;
+}
+
